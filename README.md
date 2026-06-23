@@ -1,4 +1,4 @@
-# 🎓 Attendance Tracking System
+#  Attendance Tracking System
 
 A simple, beginner-friendly **Attendance Tracking System** built with **Python**, **Tkinter**, and **MySQL**.
 This project was created as a second-year B.Tech (Artificial Intelligence & Data Science) academic project.
@@ -23,7 +23,7 @@ It allows a teacher/admin to:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 attendance_system/
