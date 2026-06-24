@@ -1,4 +1,4 @@
-#  Attendance Tracking System
+#  Attendance Analytics Databoard 
 
 A simple, beginner-friendly **Attendance Tracking System** built with **Python**, **Tkinter**, and **MySQL**.
 This project was created as a second-year B.Tech (Artificial Intelligence & Data Science) academic project.
